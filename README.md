@@ -5,9 +5,9 @@
 
 - 🫀 Mental Health and Lifestyle Analyse [Abschlussprojekt_Data_Analyst](https://github.com/MichelSchulz1101/Abschlussprojekt_Data_Analyst.git)
 
-- 💵 Aktienkurs benachrichtigung [Finanze_benachrichtigung](https://github.com/MichelSchulz1101/Finanze_benachrichtigung.git)
-
 - 📫 erreichen kann man mich per E-Mail **michelschulz2005@gmail.com**
+
+- 💻 Besucht doch mal meine Webseite **www.michel-schulz.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
