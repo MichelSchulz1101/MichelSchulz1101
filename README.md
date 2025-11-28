@@ -1,18 +1,54 @@
-<h1 align="center">Hallo👋🏻 ich bin Michel</h1>
-<h3 align="center">Python-based Data Scientist and AI Engineer | Erfahrung mit Machine Learning, SQL, MongoDB & Data Visualization</h3>
+<h1 align="center">👋 Hi, ich bin Michel</h1>
+<h3 align="center">AI Engineer & Data Scientist in Ausbildung | Fokus auf KI-Automatisierung, Machine Learning & Datenprodukte</h3>
 
-- 🎵 Spotify Song-Empfehlung [Abschlussprojekt-Song-empfehlung](https://github.com/MichelSchulz1101/Abschlussprojekt-Song-empfehlung.git)
+🔍 Ich baue KI-gestützte Lösungen und datenbasierte Anwendungen, die echte Probleme lösen.  
+💡 Besonders interessiert mich, wie KI-Agenten, Automatisierung und Data Science Unternehmen dabei unterstützen können, Entscheidungen zu verbessern und Prozesse effizienter zu gestalten.
 
-- 🫀 Mental Health and Lifestyle Analyse [Abschlussprojekt_Data_Analyst](https://github.com/MichelSchulz1101/Abschlussprojekt_Data_Analyst.git)
+---
 
-- 📫 erreichen kann man mich per E-Mail **michelschulz2005@gmail.com**
+### 🚀 Aktuelle Projekte
+- 🤖 **AI-Song-Recommendation System** – ML-Projekt zur Songempfehlung basierend auf Nutzerdaten  
+  👉 [GitHub-Repo](https://github.com/MichelSchulz1101/Abschlussprojekt-Song-empfehlung.git)
 
-- 💻 Besucht doch mal meine Webseite **www.michel-schulz.com**
+- 🧠 **Mental Health & Lifestyle Analyse** – Data Analyst Abschlussprojekt mit Insights zu Stress, Sport & Schlaf  
+  👉 [GitHub-Repo](https://github.com/MichelSchulz1101/Abschlussprojekt_Data_Analyst.git)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📚 Was ich derzeit lerne
+- KI-Agenten & Workflow-Automatisierung (z. B. mit n8n & API-Integration)
+- JavaScript für Front-/Backend-Projekte
+- Deep Learning & MLOps (Docker, ML-Pipelines, Evaluation)
+
+---
+
+### 📫 Kontakt
+- ✉️ Email: **michelschulz2005@gmail.com**
+- 🌐 Webseite: **https://www.michel-schulz.com**
+- 💼 LinkedIn: <a href="https://linkedin.com/in/michel-schulz" target="_blank">Profil öffnen</a>
+
+---
+
+### 🧰 Tech-Stack & Tools
 <p align="left">
-<a href="https://linkedin.com/in/michel schulz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel schulz" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/> 
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 🌱 Über mich
+Ich komme ursprünglich aus der Mechatronik und habe mich bewusst in Richtung **Daten & KI** weiterentwickelt.  
+Ich liebe es, neue Technologien praktisch anzuwenden, und arbeite ständig an eigenen Projekten, um besser zu werden.
+
+---
+
+⭐ **Wenn dir meine Projekte gefallen, lass gerne ein Star da — das motiviert enorm.**
