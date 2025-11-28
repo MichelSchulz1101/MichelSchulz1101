@@ -40,7 +40,6 @@
 <!-- Databases -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/superbase/superbase-original.svg" width="45"/>
 
 <!-- Data Science & ML -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
@@ -49,7 +48,6 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/>
 
 <!-- KI & Agents -->
-<img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" width="45"/>
 <img src="https://n8n.io/favicon.ico" width="45"/>
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="45"/>
 
